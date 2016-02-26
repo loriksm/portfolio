@@ -1,0 +1,75 @@
+
+
+      .html-work {
+        float: left;
+        width: 30%;
+        height: 200px;
+        padding: 100px;
+        border-style: none;
+        margin-top: 300px;
+        font-size: 30px;
+        margin-bottom: 0px;
+
+        }
+
+      .css-work {
+        float: right;
+        width: 30%;
+        height: 200px;
+        border-style: none;
+        margin-bottom: 400px;
+        padding-bottom: 50px;
+        line-height: 15px;
+        margin-top: 0px;
+        margin-right: 80px;
+        padding-top: 0px;
+
+      }
+        
+        
+      ul.nav {
+      margin: 0;
+      padding: 0;
+      border-style: solid; 
+      position: fixed;
+      bottom: 0px;
+      right: 450px;
+      width: 25%;   
+      height: 8%;
+      list-style-type: none;
+      text-align: center;
+      font-style: bold;
+      font-size: 25px;
+      background-color: black;
+    }
+
+     p {
+      font-size: 35px;
+      color: white;
+      font: bold;
+      font-style: italic;
+      :hover-color: purple;
+
+     }    
+
+     body {
+     background-image: url("foto.jpg");
+     background-repeat: no-repeat;
+     background-size: 100%;
+      }
+
+      a:hover {
+      color: purple;
+
+    }
+
+   .heading1 {
+      font-family: "Courier New";
+      font-size: 50px;
+      font-weight: bold;
+      text-align: center;
+      color: purple;  
+      }
+
+
+

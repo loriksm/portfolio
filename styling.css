@@ -1,0 +1,31 @@
+h1 {
+	font-family: Georgia; 
+	color: green; 
+	text-align: center
+}
+
+p { background-color: red; 
+	width: 200px;
+}
+
+.name {
+	   color: yellow; 
+	   margin-top: 30px;
+}
+
+#team {
+	   color: blue ; 
+	   margin-bottom: 30px 
+	}
+
+.first {
+	    width: 250px
+	}
+
+.second {
+ color: blue
+  }
+
+span {
+	  color: pink; 
+}
